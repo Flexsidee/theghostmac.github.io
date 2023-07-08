@@ -1,0 +1,71 @@
+# The URL the site will be built for
+base_url = "//thghostmac.github.io/"
+
+# The site title and description; used in feeds by default.
+title = "MacBobby Chibuzor"
+description = "My Personal Blog and Project Demos from [GitHub](https://github.com/theghostmac/)"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+taxonomies = [{ name = "tags" }]
+
+default_language = "en"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+highlight_theme = "OneHalfLight"
+
+[extra]
+
+# control dark mode: auto | dark | toggle
+mode = "toggle"
+
+# interal CDN resource
+useCDN = false
+
+favicon = "/icon/favicon.png"
+
+copyright = "ghostmac 👻"
+
+# ga = "G-6YGDB8SLBT"
+
+[extra.translations]
+languages = [{name = "en", url = "/"}]
+
+[[extra.translations.en]]
+show_more = "Read more ⟶"
+previous_page = "← Previous"
+next_page = "Next →"
+posted_on = "on "
+posted_by = "Published by"
+read_time = "minute read"
+all_tags = "All tags"
+menus = [
+    { name = "Home", url = "/", weight = 2 },
+    { name = "All posts", url = "/posts", weight = 2 },
+    { name = "About", url = "/about", weight = 3 },
+    { name = "Tags", url = "/tags", weight = 4 },
+]
+
+# config social icon info in the footer
+[[extra.social]]
+icon = "github"
+name = "GitHub"
+url = "https://github.com/theghostmac/"
+
+[[extra.social]]
+icon = "twitter"
+name = "Twitter"
+url = "https://twitter.com/ghostmac9"
+
+[[extra.social]]
+icon = "mail"
+name = "mail"
+url = "mailto:macbobbychibuzor@gmail.com"
