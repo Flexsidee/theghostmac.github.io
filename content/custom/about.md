@@ -1,17 +1,24 @@
 +++
 title = "About"
-date = "2022-05-12"
+date = "2023-07-08"
 path = "about"
 +++
 
-## Zola at a Glance
+## About me
 
-Zola is a static site generator (SSG), similar to [Hugo](https://gohugo.io/), [Pelican](https://blog.getpelican.com/), and [Jekyll](https://jekyllrb.com/) (for a comprehensive list of SSGs, please see [Jamstack](https://jamstack.org/generators)). It is written in [Rust](https://www.rust-lang.org/) and uses the [Tera](https://tera.netlify.com/) template engine, which is similar to [Jinja2](https://jinja.palletsprojects.com/en/2.10.x/), [Django templates](https://docs.djangoproject.com/en/2.2/topics/templates/), [Liquid](https://shopify.github.io/liquid/), and [Twig](https://twig.symfony.com/). Content is written in [CommonMark](https://commonmark.org/), a strongly defined, highly compatible specification of [Markdown](https://www.markdownguide.org/).
+Hey, I'm MacBobby Chibuzor. I'm interested in:
+- Software Engineering (Go, Rust, C, ...)
+- Blockchain Engineering (Ethereum, Hyperledger Fabric)
+- DevOps Engineering (AWS, GCP)
+- Systems Programming (Dev tooling, Cloud SDKs)
+- Technical Writing
 
-SSGs use dynamic templates to transform content into static HTML pages. Static sites are thus very fast and require no databases, making them easy to host. A comparison between static and dynamic sites, such as WordPress, Drupal, and Django, can be found [here](https://dev.to/ashenmaster/static-vs-dynamic-sites-61f).
+I'm currently studying a Bachelor's in Mechatronics Engineering.
 
-To get a taste of Zola, please see the quick overview below.
+# Contact
 
-## First Steps with Zola
+Twitter: [@ghostmac9](https://twitter.com/ghostmac9) <br />
+Github: [theghostmac](https://github.com/theghostmac) <br />
+Discord: [ghostmac](https://discord.gg/ghost_mac) <br />
 
-Unlike some SSGs, Zola makes no assumptions regarding the structure of your site. In this overview, we'll be making a simple blog site.
+I always enjoy a good conversation, so feel free to DM me anytime :).

@@ -1,161 +1,298 @@
 +++
-title = "Hello archie"
-date = "2022-05-14"
-description = "See how to config your archie theme"
+title = "Interactive Resume"
+date = "2023-06-23"
+description = "Find an interactive version of my resume here."
 
 [taxonomies]
 tags = ["showcase"]
-
-[extra]
-author = { name = "XXXMRG", social= "https://github.com/XXXMrG" }
 +++
 
-## Demo
+---
+
+### About Me
 
 ---
 
-The Main branch source code hosted on <https://archie-zola.vercel.app/>
-
-### ScreenShot
-
-![screenshot light](/screenshot/screenshot-light.png)
-
-![screenshot dark](/screenshot/screenshot-dark.png)
-
-## Installation
+Hi, my name is **MacBobby**.
+I'm currently a software and blockchain engineer and technical writer with practical knowledge and experience developing Web2 and Web3 native softwares using Golang, Solidity, and Rust 🦀.
 
 ---
 
-First download this theme to your themes directory:
+### Key Strengths
 
-```bash
-cd themes
-git clone https://github.com/XXXMrG/archie-zola.git
-```
+- Confidence in facing complex situations while developing
+- In-depth Software Architecture understanding
+- Knowledge and experience in cloud-native engineering.
 
-or add as a git submodule:
-
-```bash
-git submodule add https://github.com/XXXMrG/archie-zola.git  themes/archie-zola
-```
-
-and then enable it in your config.toml:
-
-```toml
-theme = "archie-zola"
-```
-
-## Feature
+### Contact Me
 
 ---
 
-- Pagination
-- Tags
-- Auto Dark Mode(based on system theme)
-- Dark/Light Mode toggle
+<aside>
+<img src="https://img.icons8.com/ios/2x/envelope-love-1.png" alt="https://img.icons8.com/ios/2x/envelope-love-1.png" width="40px" /> **[Email](mailto:macbobbychibuzor@gmail.com)**
 
-in the planning stage：
+</aside>
 
-- [ ] Google Analytics Script
-- [ ] Custom CSS & JS
-- [ ] Twitter Cards & Youtube video
+<aside>
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/905c84af-728a-4bbe-b221-8875d997ef62/icons_jh-logo--red.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/905c84af-728a-4bbe-b221-8875d997ef62/icons_jh-logo--red.png" width="40px" /> **[Website](http://ghostmac.simple.ink)**
 
-## Config
+</aside>
 
----
+<aside>
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a750c8b7-b1d0-4329-aee0-e789d19a2bc1/icons_twitter--color.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a750c8b7-b1d0-4329-aee0-e789d19a2bc1/icons_twitter--color.png" width="40px" /> [@ghostmac9](https://twitter.com/ghostmac9)
 
-### Theme config
+</aside>
 
-Cause Zola limited custom config must under the `extra` field, so there are some different with the origin theme:
+<aside>
+<img src="https://www.howtogeek.com/wp-content/uploads/2021/06/google_g_hero.jpg?height=200p&trim=2,2,2,2" alt="https://www.howtogeek.com/wp-content/uploads/2021/06/google_g_hero.jpg?height=200p&trim=2,2,2,2" width="40px" /> [Google Profile](https://g.dev/ghostmac)
 
-Demo website config.toml:
-
-```toml
-# control dark mode: auto | dark | toggle
-mode = "toggle"
-
-# subtitle will show under the title in index page
-subtitle = "A zola theme forked from [archie](https://github.com/athul/archie)"
-
-# if set true, will use external CDN resource to load font and js file
-useCDN = false
-
-favicon = "/icon/favicon.png"
-
-# show in the footer
-copyright = "keith"
-
-# config your Google Analysis ID
-ga = "XXXX-XXXXX"
-
-# optional: config your i18n entry
-[extra.translations]
-languages = [{name = "en", url = "/"}]
-
-# config multi-language menu and other text
-[[extra.translations.en]]
-show_more = "Read more ⟶"
-previous_page = "← Previous"
-next_page = "Next →"
-posted_on = "on "
-posted_by = "Published by"
-read_time = "minute read"
-all_tags = "All tags"
-menus = [
-    { name = "Home", url = "/", weight = 2 },
-    { name = "All posts", url = "/posts", weight = 2 },
-    { name = "About", url = "/about", weight = 3 },
-    { name = "Tags", url = "/tags", weight = 4 },
-]
-
-# config social icon info in the footer
-[[extra.social]]
-icon = "github"
-name = "GitHub"
-url = "https://github.com/XXXMrG/archie-zola"
-
-[[extra.social]]
-icon = "twitter"
-name = "Twitter"
-url = "https://github.com/your-name/"
-
-[[extra.social]]
-icon = "gitlab"
-name = "GitLab"
-url = "https://gitlab.com/your-name/"
-
-```
-
-### Content config
-
-**In content/posts/\_index.md. I use Zola config: transparent = true to implement the pagination**
-
-In Zola, you can use config in the \_index.md to control pagination and sort post list:
-
-```toml
-paginate_by = 3
-sort_by = "date"
-
-[taxonomies]
-tags = ["FE", "Rust"]
-
-[extra]
-author = { name = "XXXMRG", social= "https://github.com/XXXMrG" }
-```
-
-## Extension
-
-Follow this [doc](https://www.getzola.org/documentation/themes/extending-a-theme/) to extend theme.
-
-## Contributing
+</aside>
 
 ---
 
-Thank you very much for considering contributing to this project!
+# Profile
 
-We appreciate any form of contribution:
+With over 3 years of experience in software engineering, I bring a strong background in creating and maintaining projects in Golang. Working within a Unix/Linux environment comes naturally to me, and my skills extend to SQL database management, query optimization, and using git for version control, technical discussion, and code maintenance. I have a background in security and a track record of mentoring junior engineers in Go and backend engineering. I am eager to contribute my expertise and passion to the team at Team Cymru and help enhance Internet security.
 
-- New issues (feature requests, bug reports, questions, ideas, ...)
-- Pull requests (documentation improvements, code improvements, new features, ...)[^zolawebsite]
+### **My mission is simple:**
 
-[^zolawebsite]: Website: [zola](https://getzola.org), GitHub: [getzola/zola](https://github.com/getzola/zola)
+**Build modern scalable and maintainable software as a DevOps engineer.**
+
+---
+
+# Skills
+
+### Technical Writing
+
+---
+
+I have been writing commercially for about 6 years. I got into the tech space in 2019/2020, where I started writing technical articles. I moved into technical writing fully in 2020 and have honed my writing and programming skills to remarkable heights. I have written for:
+
+- LogRocket
+- FreeCodeCamp
+- Hashnode
+- Others
+
+### Backend Engineering
+
+---
+
+I have been building application backend logic since 2020, initially with the Python programming language’s Flask framework. I however migrated fully to Golang the following year as it is a promising programming language.  My strengths include:
+
+- Microservices Architecture with Golang
+- Software Testing and Deployment
+- RESTFul API Development
+- Database Engineering (SQL, SQLite)
+- Cloud Engineering
+- Golang & Frameworks
+- Rust
+
+### Blockchain Engineering
+
+---
+
+I am proficient about blockchain development and engineering for Web3. I am capable of building smart contracts on the Ethereum blockchain, Chaincodes on the Cardano blockchain, and currently learning Rust for Blockchain cryptography and protocols engineering. I went through #100DaysOfCode #Blockchain where I learned how to engineer a blockchain from scratch using Go and relying on the technologies separately.
+
+- Solidity for Ethereum
+- Rust for Cryptography and Protocols
+- Golang for Protocols, Cosmos and Hyperledger Fabric
+
+### DevOps Engineering
+
+---
+
+I am somewhat proficient in cloud DevOps tasks with practical experience using:
+
+- Bash for Shell Scripting
+- Ansible for Automation
+- Linux OS
+- AWS Cloud DevOps
+- Docker
+- Kubernetes
+
+![GopherWalking.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e591a5-79d4-45fd-bc14-c1f0e990a2cc/GopherWalking.gif)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/497452b8-7aba-4543-b293-6112aa036f23/Untitled.png)
+
+
+### My Stack
+---
+
+<aside>
+<img src="https://img.icons8.com/ios/2x/engineering.png" alt="https://img.icons8.com/ios/2x/engineering.png" width="40px" /> Tools
+
+</aside>
+
+- YAML
+- Terraform for Infrastructure as Code
+- GitHub Actions for Workflows
+- Docker for Containers
+- Kubernetes for Container Orchestration
+
+<aside>
+<img src="https://img.icons8.com/ios/2x/placeholder-thumbnail-xml.png" alt="https://img.icons8.com/ios/2x/placeholder-thumbnail-xml.png" width="40px" /> Coding Languages
+
+</aside>
+
+---
+
+- Golang (primary)
+- Solidity (DSL)
+- Rust (secondary)
+- SQL (db querying)
+
+<aside>
+<img src="https://img.icons8.com/ios/2x/design.png" alt="https://img.icons8.com/ios/2x/design.png" width="40px" /> Software Skills
+
+</aside>
+
+---
+
+- Bash Scripting
+- UNIX System Administration
+- Version Control with Git/GitHUb
+- CI/CD
+
+---
+
+# Work Experience
+
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6482493-eb5a-44d1-b9bc-15af8a3d84b4/Untitled.png
+
+## 2022—Present
+
+---
+
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a986d39d-e61f-4001-9ee4-87b733f288af/Untitled.png
+
+## Blockchain Security Research Writer
+Halborn Inc
+
+---
+
+- Researched and wrote about zero knowledge SNARKS
+- Researched and implemented cryptographic algorithms in Rust
+
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79895c1f-cd68-4b0a-b794-f74e50caf742/Untitled.png
+
+## 2022—Present
+
+---
+
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f18f4bba-660a-412c-80da-73f5d437a325/Untitled.png
+
+## Software Engineer & Writer
+IOD Cloud Technologies, Israel
+
+---
+
+- Used tools like Golang, Python, AWS, Docker, Kubernetes, OpenTelemetry, etc.
+- Researched and tried new implementations like: GitOps, Chaos Engineering, Distributed Observability Engineering, Software Testing, etc.
+- Worked for clients like Cisco (Calisti Servie Mesh), Logz.io, etc.
+
+---
+
+# Education
+
+## 2021—2022
+
+---
+
+## ***NanoDegree — Cryptocurrency Engineering and Design, Spring 2018***
+MITx
+
+---
+
+**Achievements:**
+
+- Learned about Signatures, Hashing,
+
+## 2020—2021
+
+---
+
+## Nano***Degree — Introduction to Algorithms***
+MITx
+
+---
+
+**Achievements:**
+
+- Gained ability to solve computational problems
+- Learned how to prove correctness
+- Learned how to argue efficiency and communicate solutions effectively
+
+## 2021—2021
+
+---
+
+## Nano***Degree — Cloud Computing at Scale***
+Duke University
+
+---
+
+**Achievements:**
+
+- Learned how to work on AWS and GCP
+- Learned how to spawn Virtual Machines, setup a cloud environment, install and run CLI applications, setup and manage servers
+- Learned tools like Prometheus, Ansible, Docker etc.
+
+## 2018—2023
+
+---
+
+## Bachelor’s Degree ***— Mechatronics, Robotics, and Automation Engineering***
+Federal University of Abeokuta
+
+---
+
+**Achievements:**
+
+- Learned Software Engineering
+- Learned Embedded Systems development
+- Learned about Microprocessors, Computer systems, Microcontrollers
+- Learned Assembly language and C++
+
+---
+
+# Projects and Technical Write-ups
+
+## Software and Blockchain Engineering
+
+Click on any of the tiles below to discover how I used software and blockchain engineering knowledge and tools to build each of these amazing projects!
+
+[Personal Projects](https://theghostmac.github.io/posts)
+
+## You can navigate back to read my technical articles, or check out these published ones here ↓
+
+[Personal Projects](https://theghostmac.github.io/posts)
+
+---
+
+# Like what you see?
+
+### **I'll be waiting...**
+
+<aside>
+<img src="https://img.icons8.com/ios/2x/phone-ringing--v2.gif" alt="https://img.icons8.com/ios/2x/phone-ringing--v2.gif" width="40px" />  (234) - 902 - 044 - 044 - 7
+
+</aside>
+
+<aside>
+<img src="https://img.icons8.com/ios/2x/secured-letter--v2.gif" alt="https://img.icons8.com/ios/2x/secured-letter--v2.gif" width="40px" />  macbobbychibuzor@gmail.com
+
+</aside>
+
+<aside>
+<img src="https://img.icons8.com/ios/2x/internet--v2.gif" alt="https://img.icons8.com/ios/2x/internet--v2.gif" width="40px" />  https://ghostmac.simple.ink
+
+</aside>
+
+<aside>
+<img src="https://img.icons8.com/ios/2x/twitter--v2.gif" alt="https://img.icons8.com/ios/2x/twitter--v2.gif" width="40px" />  @ghostmac9
+
+</aside>
+
+![Yes, this is me. I'll be with you in just a moment, *let me just finish this very important call.*](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74b5237b-fe03-4c49-998a-93e50999a764/MacBobby_Chibuzor.png)
+
+Yes, this is me. I'll be with you in just a moment, *let me just finish this very important call.*
