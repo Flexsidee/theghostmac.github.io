@@ -112,10 +112,7 @@ I am somewhat proficient in cloud DevOps tasks with practical experience using:
 - Docker
 - Kubernetes
 
-![GopherWalking.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e591a5-79d4-45fd-bc14-c1f0e990a2cc/GopherWalking.gif)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/497452b8-7aba-4543-b293-6112aa036f23/Untitled.png)
-
+![GopherWalking.gif](/imgs/GopherWalking.gif)
 
 ### My Stack
 ---
