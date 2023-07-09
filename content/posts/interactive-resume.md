@@ -104,7 +104,7 @@ I am proficient about blockchain development and engineering for Web3. I am capa
 
 ---
 
-I am somewhat proficient in cloud DevOps tasks with practical experience using:
+I am proficient in cloud DevOps tasks with practical experience using:
 
 - Bash for Shell Scripting
 - Ansible for Automation
