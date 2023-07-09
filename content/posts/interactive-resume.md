@@ -29,22 +29,24 @@ I'm currently a software and blockchain engineer and technical writer with pract
 ---
 
 <aside>
-<img src="https://img.icons8.com/ios/2x/envelope-love-1.png" alt="https://img.icons8.com/ios/2x/envelope-love-1.png" width="40px" /> **[Email](mailto:macbobbychibuzor@gmail.com)**
+<img src="https://img.icons8.com/?size=512&id=Cjuj2uISMdQ1&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;" alt="https://img.icons8.com/ios/2x/envelope-love-1.png" width="40px" /> <a href="mailto:macbobbychibuzor@gmail.com">Email</a>
 
 </aside>
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/905c84af-728a-4bbe-b221-8875d997ef62/icons_jh-logo--red.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/905c84af-728a-4bbe-b221-8875d997ef62/icons_jh-logo--red.png" width="40px" /> **[Website](http://ghostmac.simple.ink)**
+<img src="https://img.icons8.com/?id=118553&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;"/> <a href="https://theghostmac.github.io)">GitHub</a>
 
 </aside>
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a750c8b7-b1d0-4329-aee0-e789d19a2bc1/icons_twitter--color.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a750c8b7-b1d0-4329-aee0-e789d19a2bc1/icons_twitter--color.png" width="40px" /> [@ghostmac9](https://twitter.com/ghostmac9)
-
+    <img src="https://img.icons8.com/?id=13963&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;" alt="Twitter Logo" width="40px" />
+    <a href="https://twitter.com/ghostmac9">@ghostmac9</a>
 </aside>
 
+
 <aside>
-<img src="https://www.howtogeek.com/wp-content/uploads/2021/06/google_g_hero.jpg?height=200p&trim=2,2,2,2" alt="https://www.howtogeek.com/wp-content/uploads/2021/06/google_g_hero.jpg?height=200p&trim=2,2,2,2" width="40px" /> [Google Profile](https://g.dev/ghostmac)
+<img src="https://img.icons8.com/?size=512&id=110560&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;" alt="Google Profile" width="40px" /> 
+<a href="https://g.dev/ghostmac">Google Dev</a>
 
 </aside>
 
