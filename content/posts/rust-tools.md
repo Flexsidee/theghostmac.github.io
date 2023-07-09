@@ -5,7 +5,7 @@ author = "MacBobby Chibuzor"
 description = "Blog post about Rust-based CLI tools you should be using."
 
 [taxonomies]
-tags = ["showcase", "tools"]
+tags = ["showcase", "tools", "Rust"]
 +++
 
 # Hi there 👋

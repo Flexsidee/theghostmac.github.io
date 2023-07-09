@@ -5,7 +5,7 @@ author = "MacBobby Chibuzor"
 description = "Cryptex is a Crypto exchange application built with Go. It is still under implementation."
 
 [taxonomies]
-tags = ["showcase", "projects"]
+tags = ["showcase", "projects", "Go"]
 +++
 
 ### Features
