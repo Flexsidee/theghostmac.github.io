@@ -160,7 +160,7 @@ I am somewhat proficient in cloud DevOps tasks with practical experience using:
 <aside>
 <img src="https://img.icons8.com/?size=512&id=111405&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;" alt="Software Skills" /> Jobs </aside>
 
-## 2022—Present
+## December 2022—July 2023
 
 ---
 
@@ -169,11 +169,14 @@ Halborn Inc
 
 ---
 
-- Researched and wrote about zero knowledge SNARKS
-- Researched and implemented cryptographic algorithms in Rust
+1. Made research on blockchain concepts like ZKPs, L2 scalability, and many more.
+2. Wrote code implementations of NFT and smart contract attacks, zkSNARKS, and several proof of concepts for demonstrative purposes.
+3. Improved the types of content available in the blog section, bringing in 2.1k developer readers monthly.
+
+*Technologies Used:* **Golang, Solidity, Rust**
 
 
-## 2022—Present
+## December 2021—April 2023
 
 ---
 
@@ -182,13 +185,28 @@ IOD Cloud Technologies, Israel
 
 ---
 
-- Used tools like Golang, Python, AWS, Docker, Kubernetes, OpenTelemetry, etc.
-- Researched and tried new implementations like: GitOps, Chaos Engineering, Distributed Observability Engineering, Software Testing, etc.
-- Worked for clients like Cisco (Calisti Servie Mesh), Logz.io, etc.
+1. Implemented proof of concepts on cloud-native technologies for high-profile client companies such as Cisco, Logz.io, and Zoho, resulting in the successful adoption and implementation of cutting-edge solutions.
+2. Developed comprehensive architecture and conducted code implementations for clients, enabling their engineering teams to embrace new concepts such as GitOps, Observability engineering, and Chaos engineering.
+3. Authored and published 15 technical guides on new cloud-native concepts, empowering clients to understand and leverage advanced technologies, resulting in accelerated onboarding and increased productivity for their engineering teams.
+4. Conducted benchmark tests to compare the performance of AWS ECS and EKS for different workloads for Zoho, providing actionable insights and data-driven recommendations for optimizing their cloud infrastructure.
+5. Learned how to architect Microservices and monoliths using Domain-Driven Design principles, for enterprise applications.
+6. Leveraged expertise in cloud-native software engineering to establish a reputation as the go-to talent within the organization, raking in 12% more briefs with clients.
+
+- **Technologies used:** *Golang, Python, Docker, Kubernetes, Prometheus, Grafana, Jaeger Tracing, Logz.io, OpenTelemetry, AWS.*
 
 ---
 
 # Education
+
+## ***NanoDegree — Mathematics for Deep Learning***
+University of Tubingen - Taken By Prof. Dr. Andreas Geiger
+---
+
+**Achievements:**
+
+1. Learning Linear Algebra, Calculus, and Bayesian Decision Theory.
+2. Implemented mathematical concepts in the Rust Progamming Language.
+3. Began work on my B.Sc. thesis on Human-Machine Interaction.
 
 ## 2021—2022
 
@@ -201,53 +219,54 @@ MITx
 
 **Achievements:**
 
-- Learned about Signatures, Hashing, Merkle Trie, Consensus Mechanisms.
+1. Learned about Signatures, Hashing, Merkle Trie, Consensus Mechanisms.
+2. Implemented a Proof-of-Work blockchain in [Golang](https://github.com/theghostmac/golang-blockchain).
 
 ## 2020—2021
 
 ---
 
-## Nano***Degree — Introduction to Algorithms***
+## ***NanoDegree — Introduction to Algorithms***
 MITx
 
 ---
 
 **Achievements:**
 
-- Gained ability to solve computational problems
-- Learned how to prove correctness
-- Learned how to argue efficiency and communicate solutions effectively
+1. Gained ability to solve computational problems
+2. Learned how to prove correctness
+3. Learned how to argue efficiency and communicate solutions effectively
 
 ## 2021—2021
 
 ---
 
-## Nano***Degree — Cloud Computing at Scale***
+## ***NanoDegree — Cloud Computing at Scale***
 Duke University
 
 ---
 
 **Achievements:**
 
-- Learned how to work on AWS and GCP
-- Learned how to spawn Virtual Machines, setup a cloud environment, install and run CLI applications, setup and manage servers
-- Learned tools like Prometheus, Ansible, Docker etc.
+1. Learned how to work on AWS and GCP.
+2. Learned how to spawn Virtual Machines, set up a cloud environment, install and run CLI applications, setup and manage servers
+3. Learned tools like Prometheus, Ansible, Docker etc.
 
 ## 2018—2023
 
 ---
 
-## Bachelor’s Degree ***— Mechatronics, Robotics, and Automation Engineering***
+## ***Bachelor’s Degree — Mechatronics, Robotics, and Automation Engineering***
 Federal University of Abeokuta
 
 ---
 
 **Achievements:**
 
-- Learned Software Engineering
-- Learned Embedded Systems development
-- Learned about Microprocessors, Computer systems, Microcontrollers
-- Learned Assembly language and C++
+1. Learned Software Engineering.
+2. Learned Embedded Systems development and Computer Hardware Architecture.
+3. Learned about Microprocessors, Human-Computer Interaction systems, Programmable Logic Devices.
+4. Learned Rust and C++.
 
 ---
 
