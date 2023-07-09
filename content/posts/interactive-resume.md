@@ -1,6 +1,6 @@
 +++
 title = "Interactive Resume"
-date = "2023-06-23"
+date = "2023-07-09"
 description = "Find an interactive version of my resume here."
 
 [taxonomies]
@@ -70,9 +70,10 @@ With over 3 years of experience in software engineering, I bring a strong backgr
 
 I have been writing commercially for about 6 years. I got into the tech space in 2019/2020, where I started writing technical articles. I moved into technical writing fully in 2020 and have honed my writing and programming skills to remarkable heights. I have written for:
 
-- LogRocket
-- FreeCodeCamp
-- Hashnode
+- [LogRocket](https://blog.logrocket.com/author/macbobbychibuzor/)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/author/macbobby/)
+- [Hashnode](https://ghostmac.hashnode.dev)
+- [Quicknode](https://blog.quicknode.com/understanding-erc-4337-and-erc-4804-standards/)
 - Others
 
 ### Backend Engineering
@@ -118,7 +119,7 @@ I am somewhat proficient in cloud DevOps tasks with practical experience using:
 ---
 
 <aside>
-<img src="https://img.icons8.com/ios/2x/engineering.png" alt="https://img.icons8.com/ios/2x/engineering.png" width="40px" /> Tools
+<img src="https://img.icons8.com/?size=1x&id=110189&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;" alt="Tools" /> Tools
 
 </aside>
 
@@ -129,7 +130,7 @@ I am somewhat proficient in cloud DevOps tasks with practical experience using:
 - Kubernetes for Container Orchestration
 
 <aside>
-<img src="https://img.icons8.com/ios/2x/placeholder-thumbnail-xml.png" alt="https://img.icons8.com/ios/2x/placeholder-thumbnail-xml.png" width="40px" /> Coding Languages
+<img src="https://img.icons8.com/?size=512&id=94158&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;" alt="Coding Languages" /> Coding Languages
 
 </aside>
 
@@ -141,7 +142,7 @@ I am somewhat proficient in cloud DevOps tasks with practical experience using:
 - SQL (db querying)
 
 <aside>
-<img src="https://img.icons8.com/ios/2x/design.png" alt="https://img.icons8.com/ios/2x/design.png" width="40px" /> Software Skills
+<img src="https://img.icons8.com/?size=1x&id=PYf4EntGg74i&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;" alt="Software Skills" /> Software Skills
 
 </aside>
 
@@ -156,15 +157,14 @@ I am somewhat proficient in cloud DevOps tasks with practical experience using:
 
 # Work Experience
 
-!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6482493-eb5a-44d1-b9bc-15af8a3d84b4/Untitled.png
+<aside>
+<img src="https://img.icons8.com/?size=512&id=111405&format=png" style="width: 40px; margin-top: 10px; margin-right: 10px; vertical-align: middle;" alt="Software Skills" /> Jobs </aside>
 
 ## 2022—Present
 
 ---
 
-!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a986d39d-e61f-4001-9ee4-87b733f288af/Untitled.png
-
-## Blockchain Security Research Writer
+## Blockchain Security Researcher
 Halborn Inc
 
 ---
@@ -172,13 +172,10 @@ Halborn Inc
 - Researched and wrote about zero knowledge SNARKS
 - Researched and implemented cryptographic algorithms in Rust
 
-!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79895c1f-cd68-4b0a-b794-f74e50caf742/Untitled.png
 
 ## 2022—Present
 
 ---
-
-!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f18f4bba-660a-412c-80da-73f5d437a325/Untitled.png
 
 ## Software Engineer & Writer
 IOD Cloud Technologies, Israel
@@ -204,7 +201,7 @@ MITx
 
 **Achievements:**
 
-- Learned about Signatures, Hashing,
+- Learned about Signatures, Hashing, Merkle Trie, Consensus Mechanisms.
 
 ## 2020—2021
 
@@ -283,7 +280,7 @@ Click on any of the tiles below to discover how I used software and blockchain e
 </aside>
 
 <aside>
-<img src="https://img.icons8.com/ios/2x/internet--v2.gif" alt="https://img.icons8.com/ios/2x/internet--v2.gif" width="40px" />  https://ghostmac.simple.ink
+<img src="https://img.icons8.com/ios/2x/internet--v2.gif" alt="https://img.icons8.com/ios/2x/internet--v2.gif" width="40px" />  https://theghostmac.github.io
 
 </aside>
 
@@ -291,7 +288,3 @@ Click on any of the tiles below to discover how I used software and blockchain e
 <img src="https://img.icons8.com/ios/2x/twitter--v2.gif" alt="https://img.icons8.com/ios/2x/twitter--v2.gif" width="40px" />  @ghostmac9
 
 </aside>
-
-![Yes, this is me. I'll be with you in just a moment, *let me just finish this very important call.*](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74b5237b-fe03-4c49-998a-93e50999a764/MacBobby_Chibuzor.png)
-
-Yes, this is me. I'll be with you in just a moment, *let me just finish this very important call.*
