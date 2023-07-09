@@ -5,7 +5,7 @@ author = "MacBobby Chibuzor"
 description = "Blog post about Rust-based CLI tools you should be using."
 
 [taxonomies]
-tags = ["showcase", "projects"]
+tags = ["showcase", "tools"]
 +++
 
 # Hi there 👋
@@ -104,7 +104,7 @@ For example, I ran the command to view a Go source file below:
 bat arraySolutions.go
 ```
 
-[Video compressed from 8.8mb to 1.9mb with veed.io](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbfc8212-5a3c-42eb-bff5-f9498b87938f/Untitled.mp4)
+[See video](https://file.notion.so/f/s/cbfc8212-5a3c-42eb-bff5-f9498b87938f/Untitled.mp4?id=36ae920d-cce0-4c70-b05c-c5553ad7fa87&table=block&spaceId=77a131a6-6347-4e0d-b098-1474be9ec9b8&expirationTimestamp=1688954400000&signature=_hDTlEYWemyiZbu12Ebzu9-vxct2KA_xs8NduRtEQkM&downloadName=Untitled.mp4)
 
 Video compressed from 8.8mb to 1.9mb with veed.io
 
@@ -134,7 +134,7 @@ Remember to Save changes with **Cmd** + **S**.
 
 In principle, `zoxide` says, “once you did it once before, you don’t have to do it again.” It’s like a taxi driver that remembers where you always go, so you don’t have to tell him. To demonstrate, let’s go into a project directory from my home directory, then come back to home, and then try to jump directly to the project directory without writing the exact absolute path:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/80e00628-d371-4ae8-bc2c-6a245d8d6eed/Untitled.png)
+![Zoxide Demo](/imgs/zoxide-demo.png)
 
 - From /Users/macbobbychibuzor, I wrote a very long path to a Geth project repository
 - Next, I displayed the repository I’m now in
@@ -151,7 +151,7 @@ Recap:
 - `ll`: lists contents of a directory and their file permissions
 - lsd: lists all of the above, including more details
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41ca2062-006e-42c6-9128-ca9bb4143445/Untitled.png)
+![LSD Demo](/imgs/lsd.png)
 
 To install, run:
 
@@ -185,4 +185,8 @@ brew install exa ; say "I just completed the exa download, boss. Come back."
 
 You have to [learn](https://the.exa.website/docs) about the `--options` and `--flags` you can add to exa execution to use it. Here’s an example using `—-long` `—-header`:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb6dccc6-a337-4826-885d-081136f5ac31/Untitled.png)
+![Exa Demo](/imgs/exa.png)
+
+# Conclusion
+
+This list is going to be updated as I find new tools built with Rust.
